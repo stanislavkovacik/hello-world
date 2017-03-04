@@ -1,2 +1,3 @@
 # hello-world
 learning repository
+Trying to learn what all this is about...
